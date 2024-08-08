@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-07T11:52:20 IST" name="Suite" finished-at="2024-08-07T11:53:13 IST" duration-ms="52469">
+    <groups>
+    </groups>
+    <test started-at="2024-08-07T11:52:20 IST" name="Test1" finished-at="2024-08-07T11:53:13 IST" duration-ms="52369">
+      <class name="TestNG.NewTest_First">
+        <test-method signature="tearUp()[pri:1, instance:TestNG.NewTest_First@25a6944c]" started-at="2024-08-07T11:52:20 IST" name="tearUp" finished-at="2024-08-07T11:53:02 IST" duration-ms="41663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method signature="Logo()[pri:2, instance:TestNG.NewTest_First@25a6944c]" started-at="2024-08-07T11:53:02 IST" name="Logo" finished-at="2024-08-07T11:53:03 IST" duration-ms="1334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logo -->
+        <test-method signature="Login()[pri:3, instance:TestNG.NewTest_First@25a6944c]" started-at="2024-08-07T11:53:03 IST" name="Login" finished-at="2024-08-07T11:53:12 IST" duration-ms="9223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="teaeDown()[pri:4, instance:TestNG.NewTest_First@25a6944c]" started-at="2024-08-07T11:53:12 IST" name="teaeDown" finished-at="2024-08-07T11:53:13 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teaeDown -->
+        <test-method is-config="true" signature="at()[pri:0, instance:TestNG.NewTest_First@25a6944c]" started-at="2024-08-07T11:53:13 IST" name="at" finished-at="2024-08-07T11:53:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+      </class> <!-- TestNG.NewTest_First -->
+    </test> <!-- Test1 -->
+    <test started-at="2024-08-07T11:53:13 IST" name="Test2" finished-at="2024-08-07T11:53:13 IST" duration-ms="17">
+      <class name="TestNG.Annotation_D">
+        <test-method is-config="true" signature="bs()[pri:0, instance:TestNG.Annotation_D@2c7b5824]" started-at="2024-08-07T11:52:20 IST" name="bs" finished-at="2024-08-07T11:52:20 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:TestNG.Annotation_D@2c7b5824]" started-at="2024-08-07T11:53:13 IST" name="bt" finished-at="2024-08-07T11:53:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:TestNG.Annotation_D@2c7b5824]" started-at="2024-08-07T11:53:13 IST" name="bc" finished-at="2024-08-07T11:53:13 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:TestNG.Annotation_D@2c7b5824]" started-at="2024-08-07T11:53:13 IST" name="bm" finished-at="2024-08-07T11:53:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="search()[pri:1, instance:TestNG.Annotation_D@2c7b5824]" started-at="2024-08-07T11:53:13 IST" name="search" finished-at="2024-08-07T11:53:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="am()[pri:0, instance:TestNG.Annotation_D@2c7b5824]" started-at="2024-08-07T11:53:13 IST" name="am" finished-at="2024-08-07T11:53:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:TestNG.Annotation_D@2c7b5824]" started-at="2024-08-07T11:53:13 IST" name="bm" finished-at="2024-08-07T11:53:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="AdvancedSearch()[pri:2, instance:TestNG.Annotation_D@2c7b5824]" started-at="2024-08-07T11:53:13 IST" name="AdvancedSearch" finished-at="2024-08-07T11:53:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdvancedSearch -->
+        <test-method is-config="true" signature="am()[pri:0, instance:TestNG.Annotation_D@2c7b5824]" started-at="2024-08-07T11:53:13 IST" name="am" finished-at="2024-08-07T11:53:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:TestNG.Annotation_D@2c7b5824]" started-at="2024-08-07T11:53:13 IST" name="ac" finished-at="2024-08-07T11:53:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- TestNG.Annotation_D -->
+      <class name="TestNG.NewTest_First">
+        <test-method is-config="true" signature="as()[pri:0, instance:TestNG.NewTest_First@25a6944c]" started-at="2024-08-07T11:53:13 IST" name="as" finished-at="2024-08-07T11:53:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- TestNG.NewTest_First -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
